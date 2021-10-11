@@ -51,7 +51,7 @@
          "qty":10,
          "description":"",
          "techspecs":"",
-         "rating":5
+         "rating":5,
          "categoryId":0
       },
       {
@@ -62,7 +62,7 @@
          "qty":10,
          "description":"",
          "techspecs":"",
-         "rating":5
+         "rating":5,
          "categoryId":0
       },
       {
@@ -73,7 +73,7 @@
          "qty":10,
          "description":"",
          "techspecs":"",
-         "rating":5
+         "rating":5,
          "categoryId":0
       }
    ]
