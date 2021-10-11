@@ -25,5 +25,17 @@
          "name":"More",
          "background":"../../../assets/carparts.jpg"
       }
+   ],
+   "products":[
+      {
+         "id":0,
+         "image":"",
+         "name":"",
+         "price":10.00,
+         "qty":5,
+         "description":"",
+         "techspecs":"",
+         "rating":5
+      }
    ]
 }
