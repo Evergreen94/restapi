@@ -1,5 +1,5 @@
 {
-  categories:  [
+  "categories":  [
       { id: 0, name: 'Food', background: '../../../assets/food.jpg' },
       { id: 1, name: 'Clothes', background: '../../../assets/clothes.jpg' },
       { id: 2, name: 'Houseware', background: '../../../assets/houseware.jpg' },
