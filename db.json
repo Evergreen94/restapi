@@ -34,8 +34,8 @@
    "products":[
       {
          "id":0,
-         "image":"",
-         "name":"Prodotto 1",
+         "image":"../../../assets/tomato.jpg",
+         "name":"Tomato",
          "price":10,
          "qty":5,
          "description":"",
@@ -45,8 +45,8 @@
       },
       {
          "id":1,
-         "image":"",
-         "name":"Prodotto 2",
+         "image":"../../../assets/cheese.jpg",
+         "name":"Cheese",
          "price":4.99,
          "qty":10,
          "description":"",
@@ -56,8 +56,8 @@
       },
       {
          "id":2,
-         "image":"",
-         "name":"Prodotto 3",
+         "image":"../../../assets/olives.jpg",
+         "name":"Olives",
          "price":4.99,
          "qty":10,
          "description":"",
@@ -67,8 +67,8 @@
       },
       {
          "id":3,
-         "image":"",
-         "name":"Prodotto 4",
+         "image":"../../../assets/chocolate.jpg",
+         "name":"Chocolate",
          "price":4.99,
          "qty":10,
          "description":"",
