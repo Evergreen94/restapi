@@ -3,26 +3,31 @@
       {
          "id":0,
          "name":"Food",
+         "description":"Description",
          "background":"../../../assets/food.jpg"
       },
       {
          "id":1,
          "name":"Clothes",
+         "description":"Description",
          "background":"../../../assets/clothes.jpg"
       },
       {
          "id":2,
          "name":"Houseware",
+         "description":"Description",
          "background":"../../../assets/houseware.jpg"
       },
       {
          "id":3,
          "name":"PC components",
+         "description":"Description",
          "background":"../../../assets/pcparts.jpg"
       },
       {
          "id":999,
          "name":"More",
+         "description":"Description",
          "background":"../../../assets/carparts.jpg"
       }
    ],
