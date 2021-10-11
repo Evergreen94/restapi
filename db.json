@@ -1,9 +1,9 @@
 {
   "categories":  [
-      { id: 0, name: 'Food', background: '../../../assets/food.jpg' },
-      { id: 1, name: 'Clothes', background: '../../../assets/clothes.jpg' },
-      { id: 2, name: 'Houseware', background: '../../../assets/houseware.jpg' },
-      { id: 3, name: 'PC components', background: '../../../assets/pcparts.jpg' },
-      { id: 999, name: 'More', background: '../../../assets/carparts.jpg' }
+      { "id": 0, "name": "Food", "background": "../../../assets/food.jpg" },
+      { "id": 1, "name": "Clothes", "background": "../../../assets/clothes.jpg" },
+      { "id": 2, "name": "Houseware", "background": "../../../assets/houseware.jpg" },
+      { "id": 3, "name": "PC components", "background": "../../../assets/pcparts.jpg" },
+      { "id": 999, "name": "More", "background": "../../../assets/carparts.jpg" }
     ]  
 }
