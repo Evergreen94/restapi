@@ -40,7 +40,8 @@
          "qty":5,
          "description":"",
          "techspecs":"",
-         "rating":5
+         "rating":5,
+         "categoryId":0
       },
       {
          "id":1,
@@ -51,6 +52,29 @@
          "description":"",
          "techspecs":"",
          "rating":5
+         "categoryId":0
+      },
+      {
+         "id":2,
+         "image":"",
+         "name":"",
+         "price":4.99,
+         "qty":10,
+         "description":"",
+         "techspecs":"",
+         "rating":5
+         "categoryId":0
+      },
+      {
+         "id":3,
+         "image":"",
+         "name":"",
+         "price":4.99,
+         "qty":10,
+         "description":"",
+         "techspecs":"",
+         "rating":5
+         "categoryId":0
       }
    ]
 }
