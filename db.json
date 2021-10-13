@@ -86,6 +86,17 @@
          "techspecs":"",
          "rating":5,
          "categoryId":0
+      },
+      {
+         "id":5,
+         "image":"../../../assets/chocolate.jpg",
+         "name":"Chocolate",
+         "price":4.99,
+         "qty":10,
+         "description":"",
+         "techspecs":"",
+         "rating":5,
+         "categoryId":0
       }
    ]
 }
